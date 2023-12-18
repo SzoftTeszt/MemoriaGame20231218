@@ -12,8 +12,12 @@
     justify-content: center;
 }
 .cella{
-    width: 10vh;
-    height: 10vh;
+    width: 20vh;
+    height: 20vh;
     background-color: yellow;
     border:1px solid black;
+    background-size: cover;
+}
+.szurke{
+    filter: grayscale(1);
 }
